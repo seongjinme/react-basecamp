@@ -1,5 +1,5 @@
 import React from "react";
-import { Button } from "./lib";
+import { Button } from "seongjinme-component-test";
 import "./App.css";
 
 function App() {
