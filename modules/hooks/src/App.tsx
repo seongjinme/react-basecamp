@@ -1,5 +1,6 @@
 import React from "react";
-import useInput from "./lib/useInput";
+// import { useInput } from "./lib/";
+import { useInput } from "seongjinme-hooks-test";
 import "./App.css";
 
 function App() {
